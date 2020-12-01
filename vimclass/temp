@@ -5,6 +5,7 @@
 #
 # :set ruler shows row and column
 #
+# turn set option off with ':set no<option>'
 #
 
 
