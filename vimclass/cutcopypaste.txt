@@ -36,7 +36,7 @@ semioticist desituationism holds that consciousness, surprisingly, has objective
 value.
 
 TODO
-This line needs to be fixed at some point in the future.
+TODO
 Fix this line too!
 You're work is not quite finished...
 
@@ -50,6 +50,8 @@ Append this line to the a register.
 Append this line to the b register.
 
 Zebra <= Cut this word into the z register.
+Put this one in the b register.
+Append this line to the b register.
 
 --------------------------------------------------------------------------------
 
