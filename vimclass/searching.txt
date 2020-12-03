@@ -1,4 +1,4 @@
-Searching forward is accomplished by typing f{char}.  Also, zebras eat grass.  
+Searching forward is accomplished by typing f{char}.  Also, zebras eat grass alot.  
 
 Delete THIS<<--- word.
 
