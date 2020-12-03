@@ -3,6 +3,7 @@
 :set hls (headling search)
 / for forward search
 ? for backward search
+Match exact word forward search with * and backward search with #
 
 Searching forward is accomplished by typing f{char}.  Also, zebras eat grass alot.  
 
