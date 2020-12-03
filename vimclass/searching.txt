@@ -1,13 +1,15 @@
 # Useful settings:
 :set is (incremental search)
 :set hls (headling search)
+/ for forward search
+? for backward search
 
 Searching forward is accomplished by typing f{char}.  Also, zebras eat grass alot.  
 
 Delete THIS<<--- word.
 
-Adam's aunt ate apples and acorns around August time.
-Beth's beagle barked and bayed, becoming bothersome for Billy by the bay.
+Adam's aunt ate apples & acorns around August time.
+Beth's beagle barked & bayed, becoming bothersome for Billy by the bay.
 Cathy's cat clawed her couch, creating chaos.
 Doug's dog dove deep in the dam, drinking dirty water as he dove.
 Erin's eagle eats eggs, enjoying each episode of eating.
