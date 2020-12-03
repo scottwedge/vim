@@ -4,6 +4,7 @@
 / for forward search
 ? for backward search
 Match exact word forward search with * and backward search with #
+Global range is '%' for example ":%s/old/new/g"
 
 Searching forward is accomplished by typing f{char}.  Also, zebras eat grass alot.  
 
