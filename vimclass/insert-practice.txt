@@ -8,6 +8,7 @@
 # Replace word with 'R'
 # replace character with 'r'
 # Can change word and following punctuation 'myself.' with cW, C or c$
+# 'cc' to change entire line
 
 vim <= What is your favorite editor?
 
@@ -33,7 +34,7 @@ I am having a brilliant time in this vim class!
 
 I love everyone!
 
-Type something wonderful here.
+OK I have typed something wonderful here.
 
 monday <= The "m" is supposed to be in uppercase.
 
