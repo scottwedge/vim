@@ -9,6 +9,7 @@
 # replace character with 'r'
 # Can change word and following punctuation 'myself.' with cW, C or c$
 # 'cc' to change entire line
+# '~' will toggle case of that letter
 
 vim <= What is your favorite editor?
 
@@ -36,11 +37,11 @@ I love everyone!
 
 OK I have typed something wonderful here.
 
-monday <= The "m" is supposed to be in uppercase.
+Monday <= The "m" is supposed to be in uppercase.
 
 Don't shout.  It's not nice.
 
-mONDAY'S START BETTER WITH coffee.
+MONDAY'S START BETTER WITH coffee.
 
 Don't Shout.  It's just too loud.
 
