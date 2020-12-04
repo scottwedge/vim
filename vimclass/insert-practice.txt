@@ -15,6 +15,7 @@
 # 'gUW' and 'gUw' to upper case of all letters in word from cursor to end of word
 # 'guw' (to lowercase) under first character to lower case or '~' to toggle case
 # '80i*'ESC to insert '*' 80 times after ESC
+# 3 lines beginning with '~' with '3o~'ESC
 
 vim <= What is your favorite editor?
 
@@ -59,6 +60,9 @@ Create a line of asterisks below:
 
 
 
-Create 3 lines that begin with "-" below:
+Create 3 lines that begin with "-" below: (with o3~ESC)
+~
+~
+~
 
 This training is provided by LinuxTrainingAcademy.com.
