@@ -5,7 +5,9 @@
 # append with 'a'
 # Append at end of line with 'A'
 # Join two lines together with J
-
+# Replace word with 'R'
+# replace character with 'r'
+# Can change word and following punctuation 'myself.' with cW, C or c$
 
 vim <= What is your favorite editor?
 
@@ -23,13 +25,13 @@ vim
 
 This line belongs with the one below it.
 
-Vim is her favorite editor.
+Vim is our favorite editor.
 
-I have a white car.
+I have a white cat.
 
-I am having a great time in this vim class!
+I am having a brilliant time in this vim class!
 
-I love myself.
+I love everyone!
 
 Type something wonderful here.
 
