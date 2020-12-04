@@ -12,7 +12,9 @@
 # '~' will toggle case of that letter
 # 'g~w' to change case of entire word
 # 'g~~' to swap case of entire line
-# 'gUW' and 'gUw' to swap case of all letters in word
+# 'gUW' and 'gUw' to upper case of all letters in word from cursor to end of word
+# 'guw' (to lowercase) under first character to lower case or '~' to toggle case
+# '80i*'ESC to insert '*' 80 times after ESC
 
 vim <= What is your favorite editor?
 
@@ -50,9 +52,11 @@ Don't Shout.  It's just too loud.
 
 Don't SHOUT.  It's just too loud.
 
-Please Whisper.
+Please whisper.
 
 Create a line of asterisks below:
+******************************************************************************** by '80i*'ESC
+
 
 
 Create 3 lines that begin with "-" below:
