@@ -16,6 +16,8 @@
 # 'guw' (to lowercase) under first character to lower case or '~' to toggle case
 # '80i*'ESC to insert '*' 80 times after ESC
 # 3 lines beginning with '~' with '3o~'ESC
+# 'I' to insert at start of line
+# 'A' to append at end of line
 
 vim <= What is your favorite editor?
 
@@ -23,7 +25,7 @@ Blue <= What is your favorite color?
 
 Enter your name here =>Scott<=
 
-Enter your name here:Scott
+Enter your name here: Scott
 
 One the line below, type the name of your favorite movie.
 Kelly's Heroes
