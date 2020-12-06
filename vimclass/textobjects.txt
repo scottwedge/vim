@@ -3,6 +3,8 @@
 
 # 'ciw' to change word and leave trailing delimiter, 'caw' deletes trailing delimiter
 
+# 'das' deletes sentence and trailing white space but 'dis' deletes only sentence
+
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
 
