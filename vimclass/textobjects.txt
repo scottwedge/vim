@@ -7,8 +7,12 @@
 
 # 'W' only uses spaces as delimiter, 'w' uses spaces and punctuation as delimiter
 
+# 'ap' for all of paragraph, 'ip' for only inner paragraph
+
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
+
+
 
 This is also paragraph.
 No only is it made up of multiple sentences, it's made up of multiple lines.
