@@ -5,6 +5,8 @@
 
 # 'das' deletes sentence and trailing white space but 'dis' deletes only sentence
 
+# 'W' only uses spaces as delimiter, 'w' uses spaces and punctuation as delimiter
+
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
 
