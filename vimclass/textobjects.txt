@@ -1,7 +1,9 @@
 # For text objects, From middle of word, 'daw' deletes full word and following delimeter,
 # 'diw' deleted only inner word and leaves the delimiter.
 
-This is a sentence comprised of many words.  This is another sentence. A 
+# 'ciw' to change word and leave trailing delimiter, 'caw' deletes trailing delimiter
+
+This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
 
 This is also paragraph.
