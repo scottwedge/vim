@@ -10,6 +10,8 @@
 # 'ap' for all of paragraph, 'ip' for only inner paragraph
 # delimiter is blank line
 
+# 'ci[' or ci]' when inside [] to change inside contents
+ 
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
 
