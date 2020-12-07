@@ -14,6 +14,7 @@
 # 'ci(' or 'ci)' to change inside contents of ()
  
 # 'cit' when placed under starting tag allows change contents of html tags
+# 'cat' when under tag also changes the tags
 
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
