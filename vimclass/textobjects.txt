@@ -16,6 +16,9 @@
 # 'cit' when placed under starting tag allows change contents between html tags
 # 'cat' when under tag also changes the tags
 
+# "ci'" to change inside "'"
+# 'ci{' to change inside '{'
+
 This is a sentence made of many words.  This is another sentence. A 
 paragraph is made up of multiple sentences.  Just like this one!
 
@@ -33,7 +36,7 @@ print(colors)
 
 scores = {
   'boars': 6, 
-  'saints': 7,
+   "newanimal": 7,
   'bandits': 0
 }
 
