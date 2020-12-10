@@ -1,8 +1,8 @@
 The Time tourist (as we will call him) was expounding.
 
 print
-print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
-print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
+print("It was cold")
+print("The weatherman said, 'It is hot outside!' but that was a lie.")
 
 scripts=[ 'bin/backup',
           'bin/backup-all',
