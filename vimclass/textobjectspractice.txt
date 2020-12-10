@@ -1,4 +1,4 @@
-The Time Traveller (for so it will be convenient to speak of him) was expounding.
+The Time tourist (for so it will be convenient to speak of him) was expounding.
 
 print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
 print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
