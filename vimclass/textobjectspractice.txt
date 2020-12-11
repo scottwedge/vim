@@ -3,6 +3,7 @@
 # save all to register b with '"bya<'
 # 'cit' to change text inside tag
 # 'dat' to delete both tags and inner contents
+# 'dit' to leave tags but delete contents, then join two lines with 'J'
 
 The Time tourist (as we will call him) was expounding.
 
@@ -28,11 +29,7 @@ scripts=[]
   </CD>
 </CATALOG>
 
-musicians = {
-  'Charlie Parker': 'alto sax', 
-  'John Coltrane': 'tenor sax', 
-  'Sonny Rollins': 'tenor sax'
-}
+musicians = { }
 
 Praesent rutrum purus ultricies, dignissim massa id, elementum felis. Vestibulum ullamcorper? Ligula quis pharetra aliquet! Felis ex vulputate justo, non commodo metus tellus ut tortor. Sed et orci quis augue pretium sagittis lobortis non nisi. Cras rhoncus congue est, ut dapibus neque gravida id. Mauris et urna consequat, semper sapien sit amet, sollicitudin enim. Vivamus aliquam erat non eros vehicula dictum. Etiam bibendum posuere leo nec commodo. Fusce in enim fermentum, vulputate odio at, semper sapien. Etiam erat lorem, convallis vel leo ac, euismod accumsan diam. Cras in sapien sed dui dictum imperdiet. Nam vel vehicula nisl.
 
