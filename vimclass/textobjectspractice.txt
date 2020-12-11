@@ -1,6 +1,7 @@
 # delete inside [] with di[ or di]
 # save inside to register a with '"ayi>'
 # save all to register b with '"bya<'
+# 'cit' to change text inside tag
 
 The Time tourist (as we will call him) was expounding.
 
@@ -12,7 +13,7 @@ scripts=[]
 
 <yank_me>
 
-<p><a href="https://linuxtrainingacademy.com">Linux Training Academy</a></p>
+<p><a href="https://linuxtrainingacademy.com">LTA</a></p>
 
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
