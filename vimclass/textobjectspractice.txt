@@ -1,4 +1,6 @@
 # delete inside [] with di[ or di]
+# save inside to register a with '"ayi>'
+# save all to register b with '"bya<'
 
 The Time tourist (as we will call him) was expounding.
 
