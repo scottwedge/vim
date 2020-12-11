@@ -4,6 +4,7 @@
 # 'cit' to change text inside tag
 # 'dat' to delete both tags and inner contents
 # 'dit' to leave tags but delete contents, then join two lines with 'J'
+# '"syas' to yank sentence into s register
 
 The Time tourist (as we will call him) was expounding.
 
