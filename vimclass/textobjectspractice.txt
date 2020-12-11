@@ -1,3 +1,5 @@
+# delete inside [] with di[ or di]
+
 The Time tourist (as we will call him) was expounding.
 
 print
