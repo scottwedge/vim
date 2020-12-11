@@ -4,10 +4,7 @@ print
 print("It was cold")
 print("The weatherman said, 'It is hot outside!' but that was a lie.")
 
-scripts=[ 'bin/backup',
-          'bin/backup-all',
-          'bin/backup-db-only',
-          'bin/backup-files-only' ]
+scripts=[]
 
 <yank_me>
 
