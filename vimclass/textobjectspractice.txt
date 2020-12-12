@@ -6,6 +6,7 @@
 # 'dit' to leave tags but delete contents, then join two lines with 'J'
 # '"syas' to yank sentence into s register
 # 'dap' to delete entire paragraph
+# 'yas' to copy sentence
 
 The Time tourist (as we will call him) was expounding.
 
