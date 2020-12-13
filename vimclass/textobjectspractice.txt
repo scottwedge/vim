@@ -8,8 +8,9 @@
 # 'dap' to delete entire paragraph
 # 'yas' to copy sentence
 # 'daw' to delete entire word
+# 'ciw' to change inner word
 
-The Time tourist (as we will call him) was expounding.
+The Time weatherman (as we will call him) was expounding.
 
 print
 print("It was cold")
