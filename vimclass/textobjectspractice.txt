@@ -9,6 +9,7 @@
 # 'yas' to copy sentence
 # 'daw' to delete entire word
 # 'ciw' to change inner word
+# 'ci(' or 'ci)' to change text within parentheses
 
 The Time weatherman (as we will call him) was expounding.
 
