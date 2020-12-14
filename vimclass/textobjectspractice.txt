@@ -10,6 +10,7 @@
 # 'daw' to delete entire word
 # 'ciw' to change inner word
 # 'ci(' or 'ci)' to change text within parentheses
+# 'z' to move current line towards top of screen
 
 The Time weatherman (as we will call him) was expounding.
 
