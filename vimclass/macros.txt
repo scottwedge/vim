@@ -5,9 +5,10 @@
 # Normalize curson position at start of macro with '0'
 # Can append to macro 'a' using capital value such as 'qA' then extra command then 'q' to quit recording
 # 'I' to insert at beginning of line
+# ':22,33normal @d' to run macro d on lines 22 through 33
 
 
-To record a macro, use the q command followed by a regsiter. To stop, type q.
+NOTE: To record a macro, use the q command followed by a regsiter. To stop, type q.
 There are no special macro registers. There is only one a register, for example.
 To replay the macro use @ followed by the register.
 To repeat the most recently executed marco, use @@.
@@ -23,13 +24,16 @@ Better to have written a lousy ballet than to have composed no ballet at all.
 If you don’t prioritize your life, someone else will. 
 Without great solitude no serious work is possible.
 
-FIRST NAME: Joseph LAST NAME: Andrews
+Joseph Andrews
 FIRST NAME: Scott LAST NAME: Young
 FIRST NAME: Jessica LAST NAME: Smith
 FIRST NAME: Shirley LAST NAME: Landers
 FIRST NAME: Pamela LAST NAME: Lewis
 
-BEFORE: "Montgomery", "(Alabama)" => "usa"
+BEFORE: 'Montgomery', 'Alabama', 'USA'
+BEFORE: 'Montgomery', 'Alabama', 'USA'
+BEFORE: 'Montgomery', 'Alabama', 'USA'
+BEFORE: 'Montgomery', 'Alabama', 'USA'
 AFTER:  'Montgomery', 'Alabama', 'USA'
 
 "Montgomery", "(Alabama)" => "usa"
