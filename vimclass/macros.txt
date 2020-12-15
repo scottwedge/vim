@@ -2,6 +2,7 @@
 # end recording with 'q'
 # to invoke recording 'a' use '@a'
 # to run saved macro 'a' four times use '4@a'
+# Normalize curson position at start of macro with '0'
 
 To record a macro, use the q command followed by a regsiter. To stop, type q.
 There are no special macro registers. There is only one a register, for example.
