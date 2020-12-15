@@ -4,6 +4,7 @@
 # to run saved macro 'a' four times use '4@a'
 # Normalize curson position at start of macro with '0'
 # Can append to macro 'a' using capital value such as 'qA' then extra command then 'q' to quit recording
+# 'I' to insert at beginning of line
 
 
 To record a macro, use the q command followed by a regsiter. To stop, type q.
