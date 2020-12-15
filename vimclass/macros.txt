@@ -1,3 +1,5 @@
+# To start recording, enter to register 'a' use 'qa'
+
 To record a macro, use the q command followed by a regsiter. To stop, type q.
 There are no special macro registers. There is only one a register, for example.
 To replay the macro use @ followed by the register.
