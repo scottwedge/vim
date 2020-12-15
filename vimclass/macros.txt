@@ -1,4 +1,5 @@
 # To start recording, enter to register 'a' use 'qa'
+# end recording with 'q'
 
 To record a macro, use the q command followed by a regsiter. To stop, type q.
 There are no special macro registers. There is only one a register, for example.
