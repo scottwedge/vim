@@ -5,7 +5,7 @@
 # Normalize curson position at start of macro with '0'
 # Can append to macro 'a' using capital value such as 'qA' then extra command then 'q' to quit recording
 # 'I' to insert at beginning of line
-# ':22,33normal @d' to run macro d on lines 22 through 33
+# ':22,33normal @d' to run macro d on lines 22 through 33: enter command mode for line range and then normal mode before run macro
 # '.,$' to execute from current line to end of file
 
 
