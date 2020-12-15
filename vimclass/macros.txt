@@ -6,6 +6,7 @@
 # Can append to macro 'a' using capital value such as 'qA' then extra command then 'q' to quit recording
 # 'I' to insert at beginning of line
 # ':22,33normal @d' to run macro d on lines 22 through 33
+# '.,$' to execute from current line to end of file
 
 
 NOTE: To record a macro, use the q command followed by a regsiter. To stop, type q.
