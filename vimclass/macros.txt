@@ -7,6 +7,7 @@
 # 'I' to insert at beginning of line
 # ':22,33normal @d' to run macro d on lines 22 through 33: enter command mode for line range and then normal mode before run macro
 # '.,$' to execute from current line to end of file
+# 'D' to delete word, 'P' to place word before cursor, 'd$' to delete rest of line
 
 
 NOTE: To record a macro, use the q command followed by a regsiter. To stop, type q.
@@ -48,8 +49,8 @@ AFTER:  'Montgomery', 'Alabama', 'USA'
 "Tallahassee", "(Florida)" => "usa"
 "Atlanta", "(Georgia)" => "usa"
 
-amazon.com has address: 
-54.239.17.7
+54.239.17.7 amazon.com 
+
 
 google.com has address:
 216.58.192.78
