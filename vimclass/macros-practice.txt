@@ -1,8 +1,11 @@
+# Macros practice file
+':34,75normal @c' to run macro on those lines
+
 ################################################################################
 # Before: print "Macros are very fun!"
 # After:  print("Macros are very fun!")
 
-print "Macros are very fun!"
+print("Macros are very fun!")
 print "Macros are powerful."
 print "Macros use registers to store keystrokes."
 print "I'm so glad Vim has Macros!"
@@ -11,7 +14,7 @@ print "I'm so glad Vim has Macros!"
 # Before: jason
 # After:  passwd -l jason && echo jason >> locked_users.txt
 
-jason
+passwd -l jason && echo jason >> locked_users.txt
 sophia
 jack
 emma
@@ -21,7 +24,7 @@ ava
 # Before: 2798265253
 # After:  (279) 826-5253
 
-2798265253
+(279) 826-5253
 6189034410
 1484945696
 4317906896
