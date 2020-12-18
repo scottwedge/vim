@@ -1,5 +1,6 @@
 # Macros practice file
-':34,75normal @c' to run macro on those lines
+# ':34,75normal @c' to run macro on those lines
+# Delete from cursor to STR string with d/STR
 
 ################################################################################
 # Before: print "Macros are very fun!"
@@ -77,9 +78,12 @@ ava
 
 ################################################################################
 # Before: Jan 13 09:57:01 www1 kernel: [3947771.808744] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=190.18.193.152 DST=2.5.9.1 LEN=40 TOS=0x02 PREC=0x00 TTL=51 ID=25120 PROTO=TCP SPT=12502 DPT=23 WINDOW=4078 RES=0x00 SYN URGP=0
+
+Jan 13 09:57:01,190.18.193.152,23
+
 # After: Jan 13 09:57:01,190.188.193.152,23
 
-Jan 13 09:57:01 www1 kernel: [3947771.808744] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=190.18.193.152 DST=2.5.9.1 LEN=40 TOS=0x02 PREC=0x00 TTL=51 ID=25120 PROTO=TCP SPT=12502 DPT=23 WINDOW=4078 RES=0x00 SYN URGP=0
+Jan 13 09:57:01,190.18.193.152,23
 Jan 13 09:57:03 www1 kernel: [3947773.766305] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=178.161.241.247 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=57 ID=1285 PROTO=TCP SPT=2461 DPT=23 WINDOW=32485 RES=0x00 SYN URGP=0
 Jan 13 09:57:53 www1 kernel: [3947824.252547] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=121.97.255.189 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=243 ID=18753 PROTO=TCP SPT=44235 DPT=23 WINDOW=14600 RES=0x00 SYN URGP=0
 Jan 13 09:58:03 www1 kernel: [3947833.987853] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=121.42.48.1 DST=2.5.9.1 LEN=60 TOS=0x00 PREC=0x00 TTL=46 ID=56401 DF PROTO=TCP SPT=51370 DPT=22 WINDOW=29200 RES=0x00 SYN URGP=0
