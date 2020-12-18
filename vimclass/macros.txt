@@ -9,6 +9,9 @@
 # '.,$' to execute from current line to end of file
 # 'D' to delete word, 'P' to place word before cursor, 'd$' to delete rest of line
 # '0' to position at start of line, 'j' to move down one line and 'k' to move up one line
+# '"ap' to post contents of register a
+# Edit line and then save updated info to register a with '"ay$" to save all up to end of line
+
 
 NOTE: To record a macro, use the q command followed by a regsiter. To stop, type q.
 There are no special macro registers. There is only one a register, for example.
@@ -33,9 +36,6 @@ FIRST NAME: Shirley LAST NAME: Landers
 FIRST NAME: Pamela LAST NAME: Lewis
 
 BEFORE: 'Montgomery', 'Alabama', 'USA'
-BEFORE: 'Montgomery', 'Alabama', 'USA'
-BEFORE: 'Montgomery', 'Alabama', 'USA'
-BEFORE: 'Montgomery', 'Alabama', 'USA'
 AFTER:  'Montgomery', 'Alabama', 'USA'
 
 "Montgomery", "(Alabama)" => "usa"
@@ -51,12 +51,13 @@ AFTER:  'Montgomery', 'Alabama', 'USA'
 
 54.239.17.7 amazon.com 
 
-
 google.com has address:
 216.58.192.78
 
 wikipedia.org has address:
 208.80.154.224
+
+0INOTE: €ýaj
 
 
 
