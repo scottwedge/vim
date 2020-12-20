@@ -5,6 +5,7 @@
 # 'f ' to find next space, not '/ '
 # 'A' to append to end of line
 # to edit register h, first paste it on empty line with '"hp'
+# then edit contents, go to start of line with '0' or '^' and recopy contents into 'h' with '"hy$'
 
 ################################################################################
 # Before: print "Macros are very fun!"
