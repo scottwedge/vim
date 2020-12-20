@@ -3,13 +3,14 @@
 # Delete from cursor to STR string with d/STR
 # 'r' to replace single character, then enter new char 
 # 'f ' to find next space, not '/ '
+# 'A' to append to end of line
 
 ################################################################################
 # Before: print "Macros are very fun!"
 # After:  print("Macros are very fun!")
 
 print("Macros are very fun!")
-print("Macros are powerful."
+print("Macros are powerful.")
 print "Macros use registers to store keystrokes."
 print "I'm so glad Vim has Macros!"
 
