@@ -4,6 +4,7 @@
 # 'r' to replace single character, then enter new char 
 # 'f ' to find next space, not '/ '
 # 'A' to append to end of line
+# to edit register h, first paste it on empty line with '"hp'
 
 ################################################################################
 # Before: print "Macros are very fun!"
@@ -11,9 +12,9 @@
 
 print("Macros are very fun!")
 print("Macros are powerful.")
-print "Macros use registers to store keystrokes."
-print "I'm so glad Vim has Macros!"
-
+print("Macros use registers to store keystrokes.")
+print("I'm so glad Vim has Macros!")
+0f r(A)abc€ýa
 ################################################################################
 # Before: jason
 # After:  passwd -l jason && echo jason >> locked_users.txt
