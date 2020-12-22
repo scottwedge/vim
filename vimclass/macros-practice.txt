@@ -9,6 +9,7 @@
 # 'yaw' to copy a word, 'I' to insert at start of line, 'A' to append to line
 # control f to scroll forward and control b to scroll backwards
 # ':start_line, end_line  normal @p' to run register p on set of lines
+# more before the character 'A' with 'tA' and back to before the character with 'TA'
 
 ################################################################################
 # Before: print "Macros are very fun!"
