@@ -12,6 +12,7 @@
 # more before the character 'A' with 'tA' and back to before the character with 'TA'
 # 'd$' or 'D' to delete rest of line
 # 'dw' to delete 'SRC' or 'DST' then 'r,' to replace '=' with ','
+# delete up to and including '@' with 'df@'
 
 ################################################################################
 # Before: print "Macros are very fun!"
