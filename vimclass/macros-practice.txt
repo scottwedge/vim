@@ -13,6 +13,9 @@
 # 'd$' or 'D' to delete rest of line
 # 'dw' to delete 'SRC' or 'DST' then 'r,' to replace '=' with ','
 # delete up to and including '@' with 'df@'
+# to insert a carriage return, place cursor on first element X  to delete with 'fX'
+#    then change to end element Y with 'cfY' then carriage return (to insert carriage return)
+
 
 ################################################################################
 # Before: print "Macros are very fun!"
@@ -139,6 +142,10 @@ Country Brazil
 
 armyspy.com, cuvox.de, dayrep.com, <a href="#">@einrot.com</a><a href="#">@fleckens.hu</a><a href="#">@gustr.com</a><a href="#">@jourrapide.com</a><a href="#">@rhyta.com</a><a href="#">@superrito.com</a><a href="#">@teleworm.us</a>
 
+
+armyspy.com
+cuvox.de
+<a href="#">@dayrep.com</a><a href="#">@einrot.com</a><a href="#">@fleckens.hu</a><a href="#">@gustr.com</a><a href="#">@jourrapide.com</a><a href="#">@rhyta.com</a><a href="#">@superrito.com</a><a href="#">@teleworm.us</a>
 
 <a href="#">@armyspy.com</a><a href="#">@cuvox.de</a><a href="#">@dayrep.com</a><a href="#">@einrot.com</a><a href="#">@fleckens.hu</a><a href="#">@gustr.com</a><a href="#">@jourrapide.com</a><a href="#">@rhyta.com</a><a href="#">@superrito.com</a><a href="#">@teleworm.us</a>
 
