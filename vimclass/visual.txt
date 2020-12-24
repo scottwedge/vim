@@ -1,3 +1,6 @@
+# v to turn on and off character-wise visual mode
+
+
 Use v to start characterwise visual mode.
 Use V to start linewise visual mode.
 Use Ctrl-v to start blockwise visual mode.
