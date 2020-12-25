@@ -1,6 +1,8 @@
 # 'v' to turn on and off character-wise visual mode
 # 'V' to toggle on/off line-wise visual mode
 # 'control v' for block-wise visual mode
+# cdyr - change, delete, yank, replace
+
 
 Use v to start characterwise visual mode.
 Use V to start linewise visual mode.
