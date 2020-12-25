@@ -2,6 +2,7 @@
 # 'V' to toggle on/off line-wise visual mode
 # 'control v' for block-wise visual mode
 # cdyr - change, delete, yank, replace
+# ~ to switch case, x to delete, I to insert, A to append, J to join
 
 
 Use v to start characterwise visual mode.
