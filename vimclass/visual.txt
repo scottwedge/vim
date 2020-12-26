@@ -6,6 +6,7 @@
 # u to lowercase, U to uppercase
 # 'o' to move to other end of highlighted text
 # 'iw' to select inner word
+# 'ap' to select all of paragraph
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
