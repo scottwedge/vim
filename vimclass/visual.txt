@@ -4,10 +4,11 @@
 # cdyr - change, delete, yank, replace
 # ~ to switch case, x to delete, I to insert, A to append, J to join
 # u to lowercase, U to uppercase
+# 'o' to move to other end of highlighted text
 
 Use v to start characterwise visual mode.
-Use V to start linewise visual mode.
-Use Ctrl-v to start blockwise visual mode.
+use v to start linewise visual mode.
+use ctrl-v to start blockwise visual mode.
 
 You can use motions to expand the visual area.
 You can also use text objects to expand the visual area.
