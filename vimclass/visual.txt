@@ -8,6 +8,7 @@
 # 'iw' to select inner word
 # 'ap' to select all of paragraph
 # 'gv' to recall last visual selections
+# in block visual mode, 'o' to move end to end, 'O' to move side to side
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
@@ -18,13 +19,13 @@ You can also use text objects to expand the visual area.
 
 Just some of commands you can use in visual mode include:
 ~ - Switch case
-c - Change
-d - Delete
-y - Yank
-r - Replace
-x - Delete
-I - Insert
-A - Append
+c - change
+d - delete
+y - yank
+r - replace
+x - delete
+i - insert
+a - append
 J - Join
 u - Make lowercase
 U - Make uppercase
