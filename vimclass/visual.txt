@@ -7,6 +7,7 @@
 # 'o' to move to other end of highlighted text
 # 'iw' to select inner word
 # 'ap' to select all of paragraph
+# 'gv' to recall last visual selections
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
