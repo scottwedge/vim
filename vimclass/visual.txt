@@ -10,6 +10,7 @@
 # 'gv' to recall last visual selections
 # in block visual mode, 'o' to move end to end, 'O' to move side to side
 # in block visual mode, '$' to select to end of line of all selected lines
+# in block mode can only Append to all lines in block with 'A'; 'a' not accepted
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
