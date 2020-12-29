@@ -12,6 +12,7 @@
 # in block visual mode, '$' to select to end of line of all selected lines
 # in block mode can only Append to all lines in block with 'A'; 'a' not accepted
 # when Append to block, only see the edit in the first line, other lines change after ESCAPE
+# to search for Nth string, use 'N/string'
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
