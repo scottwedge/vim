@@ -14,6 +14,7 @@
 # when Append to block, only see the edit in the first line, other lines change after ESCAPE
 # to search for Nth string, use 'N/string'
 # To insert at start of indented block of text; control-V and select all lines then 'I' and what to insert, then escape and it appears on all selected lines
+# If use 'V' (for visual line), then 'I' inserts at the very start  of line
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
