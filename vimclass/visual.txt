@@ -19,7 +19,8 @@
 # to change all in block, highlight all to change, 'c' to change, then enter new text then ESCAPE
 # to select all lines inside {}, place cursor inside {}, 'V' for line mode, then 'i{' or
    'i}'
-
+# to shift all selected lines use '>' or '<'
+# to shift individual line use '>>' or '<<'
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
