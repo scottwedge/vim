@@ -15,6 +15,7 @@
 # to search for Nth string, use 'N/string'
 # To insert at start of indented block of text; control-V and select all lines then 'I' and what to insert, then escape and it appears on all selected lines
 # If use 'V' (for visual line), then 'I' inserts at the very start  of line
+# 'a' and 'i' do not work in block mode, must use 'A' or 'I'
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
