@@ -17,6 +17,9 @@
 # If use 'V' (for visual line), then 'I' inserts at the very start  of line
 # 'a' and 'i' do not work in block mode, must use 'A' or 'I'
 # to change all in block, highlight all to change, 'c' to change, then enter new text then ESCAPE
+# to select all lines inside {}, place cursor inside {}, 'V' for line mode, then 'i{' or
+   'i}'
+
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
