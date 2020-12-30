@@ -16,6 +16,7 @@
 # To insert at start of indented block of text; control-V and select all lines then 'I' and what to insert, then escape and it appears on all selected lines
 # If use 'V' (for visual line), then 'I' inserts at the very start  of line
 # 'a' and 'i' do not work in block mode, must use 'A' or 'I'
+# to change all in block, highlight all to change, 'c' to change, then enter new text then ESCAPE
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
