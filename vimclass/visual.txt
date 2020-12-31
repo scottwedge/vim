@@ -21,7 +21,7 @@
    'i}'
 # to shift all selected lines use '>' or '<'
 # to shift individual line use '>>' or '<<'
-# 'gv' to select last visual block
+# 'gv' to select last visual selection (could be character or line or block mode)
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
