@@ -23,6 +23,7 @@
 # to shift individual line use '>>' or '<<'
 # 'gv' to select last visual selection (could be character or line or block mode)
 # can also perform action on group of lines inside function {} with '<i{' or '>i}'
+# ':set shiftwidth?' to see current setting of shift width, configure with ':set shiftwidth=X'
 
 
 Use v to start characterwise visual mode.
