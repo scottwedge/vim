@@ -26,6 +26,7 @@
 # ':set shiftwidth?' to see current setting of shift width, configure with ':set shiftwidth=X'
 # ':set tabstop?' to determine current number of spaces per tab
 # ':set expandtab' to turn on tab expansion into tabstop width using spaces
+# ':set list' to see tabs (^I) and end of line ($) in text
 	blah
 	hello
         hello
