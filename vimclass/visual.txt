@@ -29,6 +29,7 @@
 # ':set list' to see tabs (^I) and end of line ($) in text
 # ':set list!' to toggle list on or off
 # To change only visually selected text, 'V' to select lines, then ':' automatically displays "'<,'>" which means only the visually selected lines, then enter 's/OLD/NEW/' for changes
+# center selected lines with default width 80 with ':center' 
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
