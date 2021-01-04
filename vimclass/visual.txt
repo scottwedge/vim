@@ -32,6 +32,7 @@
 # Center selected lines with default width 80 with ':center' or ':ce'
 # Left justify selected lines 5 spaces with ':left 5' or ':le 5'
 # Right justify selected lines 55 spaces with ':right 55' or ':ri 55'
+# Left justify defaults to 0 and right and center justify assume 80
 
 Use v to start characterwise visual mode.
 use v to start linewise visual mode.
@@ -118,8 +119,8 @@ United States of America,Atlanta,Georgia
 END:United States of America State Capital List
 
 ################################################################################
-Episode V:
-The Empire Strikes Back
+				   Episode V:
+			    The Empire Strikes Back
 ################################################################################
 
 This training is provided by LinuxTrainingAcademy.com.
