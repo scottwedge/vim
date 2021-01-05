@@ -1,4 +1,6 @@
-# position cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
+# place cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
+# 'yis' to yank inner sentence into default  '"' register
+
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
