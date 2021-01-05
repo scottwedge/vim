@@ -1,3 +1,5 @@
+# position cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
+
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
 Yank this sentence. However, leave this one out of the registers, please.
