@@ -1,18 +1,18 @@
 # place cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
 # 'yis' to yank inner sentence into default  '"' register
-
+# to select all lines of paragraph, select first line then 'V' then 'ip' for inside paragraph
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
 Yank this sentence. However, leave this one out of the registers, please.
 
-This entire paragraph should be on the same line.
-But it isn't!
-I don't know who typed this, but they didn't do a
+this entire paragraph should be on the same line.
+but it isn't!
+i don't know who typed this, but they didn't do a
 very
 good
 job.
-Did they?
+did they?
 
 ################################################################################
 Header
