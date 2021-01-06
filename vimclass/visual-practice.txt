@@ -1,6 +1,7 @@
 # place cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
 # 'yis' to yank inner sentence into default  '"' register
 # to select all lines of paragraph, select first line then 'V' then 'ip' for inside paragraph
+# 'U' to change all selected to upper case
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
@@ -15,8 +16,8 @@ job.
 did they?
 
 ################################################################################
-Header
-Description
+				     HEADER
+				  DESCRIPTION
 ################################################################################
 
 Rank,Item
