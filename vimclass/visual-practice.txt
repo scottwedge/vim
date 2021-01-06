@@ -2,6 +2,7 @@
 # 'yis' to yank inner sentence into default  '"' register
 # to select all lines of paragraph, select first line then 'V' then 'ip' for inside paragraph
 # 'U' to change all selected to upper case
+# '6j' to move down six lines
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
