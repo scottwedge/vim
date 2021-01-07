@@ -5,6 +5,7 @@
 # '6j' to move down six lines
 # Can insert '# ' at start of line in block mode (but not in line mode) by selecting
   first column and then 'I# ' and ESCAPE
+# Change first column from '#' to '"' with control-V, then 'c"'
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
@@ -32,10 +33,10 @@ Rank,Item
 "006","Cereal"
 "007","Bottled Water"
 
-# This is a comment.
-# So is this.
-# Why, this is also a comment.
-# Please, comment us out!
+" This is a comment.
+" So is this.
+" Why, this is also a comment.
+" Please, comment us out!
 
 >
 >>>
