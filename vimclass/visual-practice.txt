@@ -10,6 +10,8 @@
   line, then 'A' to append, then enter text to append, then ESCAPE
 # 'cw' to change word
 # To join all lines, select lines with 'V' and then 'J' to join them together
+# ':set nu' to turn on line numbers 
+# ':set list' to show start and end of lines
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
