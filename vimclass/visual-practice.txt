@@ -1,6 +1,6 @@
 # place cursor with 'tD' to place before 'D', then 'v' for visual mode, then select all to delete
 # 'yis' to yank inner sentence into default  '"' register
-# to select all lines of paragraph, select first line then 'V' then 'ip' for inside paragraph
+# to select all lines of paragraph, select first line then 'V' then 'ip' for inner paragraph
 # 'U' to change all selected to upper case
 # '6j' to move down six lines
 # Can insert '# ' at start of line in block mode (but not in line mode) by selecting
@@ -8,6 +8,7 @@
 # Change first column from '#' to '"' with control-V, then 'c"'
 # to append to several lines, control-V then highlight lines then '$' to select entire
   line, then 'A' to append, then enter text to append, then ESCAPE
+# 'cw' to change word
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
