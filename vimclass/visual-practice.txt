@@ -9,18 +9,13 @@
 # to append to several lines, control-V then highlight lines then '$' to select entire
   line, then 'A' to append, then enter text to append, then ESCAPE
 # 'cw' to change word
+# To join all lines, select lines with 'V' and then 'J' to join them together
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
 Yank this sentence. However, leave this one out of the registers, please.
 
-this entire paragraph should be on the same line.
-but it isn't!
-i don't know who typed this, but they didn't do a
-very
-good
-job.
-did they?
+this entire paragraph should be on the same line.  but it isn't!  i don't know who typed this, but they didn't do a very good job.  did they?
 
 ################################################################################
 				     HEADER
