@@ -12,6 +12,8 @@
 # To join all lines, select lines with 'V' and then 'J' to join them together
 # ':set nu' to turn on line numbers 
 # ':set list' to show start and end of lines
+# To remove appended text, select lines with 'V' then substitute text with null 
+   by :s/OLDTEXT//
 
 Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
 
@@ -20,8 +22,8 @@ Yank this sentence. However, leave this one out of the registers, please.
 this entire paragraph should be on the same line.  but it isn't!  i don't know who typed this, but they didn't do a very good job.  did they?
 
 ################################################################################
-				     HEADER
-				  DESCRIPTION
+Header
+Description
 ################################################################################
 
 Rank,Item
@@ -38,14 +40,14 @@ Rank,Item
 " Why, this is also a comment.
 " Please, comment us out!
 
-># EOL
->>># EOL
->>>>># EOL
->>>>>>># EOL
->>>>>>>>>># EOL
->>>>>>># EOL
->>>>># EOL
->>>># EOL
-># EOL
+>
+>>>
+>>>>>
+>>>>>>>
+>>>>>>>>>>
+>>>>>>>
+>>>>>
+>>>>
+>
 
 This training is provided by LinuxTrainingAcademy.com.
