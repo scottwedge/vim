@@ -1,5 +1,6 @@
 # rc in Linux refers to "run command"
 # Use ':version' in vim to see default vimrc locations for system wide and for user
+# 'set' commands are not preceeded by a ':'
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
