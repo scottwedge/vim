@@ -2,6 +2,7 @@
 # Use ':version' in vim to see default vimrc locations for system wide and for user
 # 'set' commands are not preceeded by a ':'
 # ':set' shows all options not set to default
+# ':set OPTION?' to see if specific OPTION is set or not
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
