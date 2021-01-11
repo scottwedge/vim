@@ -3,6 +3,7 @@
 # 'set' commands are not preceeded by a ':'
 # ':set' shows all options not set to default
 # ':set OPTION?' to see if specific OPTION is set or not
+# Can also use the abbreviation of OPTION with ':set OPT?' to determine if set or not
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
