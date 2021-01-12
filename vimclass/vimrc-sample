@@ -5,6 +5,7 @@
 # ':set OPTION?' to see if specific OPTION is set or not
 # Can also use the abbreviation of OPTION with ':set OPT?' to determine if set or not
 # Check highlight search setting with ':set hls?' or ':set hlsearch?'
+# ':help hls' or ':h hls' to get help info about headline search
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
