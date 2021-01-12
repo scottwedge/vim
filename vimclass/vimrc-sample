@@ -9,6 +9,7 @@
 # Set or unset boolean like hls with ':set hls' and ':set nohls'
 # ':set history=100' to set history (default 50)
 # To scroll to past commands, enter partial command (':set ') and press UP arrow
+# To set option to default, append '&' to set command (ie ':set history&')
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
