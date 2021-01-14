@@ -10,6 +10,7 @@
 # ':set history=100' to set history (default 50)
 # To scroll to past commands, enter partial command (':set ') and press UP arrow
 # To set option to default, append '&' to set command (ie ':set history&')
+# ':e FILE' to edit FILE when editting another file
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
