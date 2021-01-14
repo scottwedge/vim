@@ -11,6 +11,7 @@
 # To scroll to past commands, enter partial command (':set ') and press UP arrow
 # To set option to default, append '&' to set command (ie ':set history&')
 # ':e FILE' to edit FILE when editting another file
+# '1'-control-'g' to show full path of file being editted
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
