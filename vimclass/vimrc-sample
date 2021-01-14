@@ -12,6 +12,7 @@
 # To set option to default, append '&' to set command (ie ':set history&')
 # ':e FILE' to edit FILE when editting another file
 # '1'-control-'g' to show full path of file being editted
+# ':h option-list' to see all options
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
