@@ -14,7 +14,7 @@
 # '1'-control-'g' to show full path of file being editted
 # ':h option-list' to see all options
 # ':set history=1000' to change from default value 50
-
+# '"' in left column means all to its right is a comment
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
