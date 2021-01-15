@@ -15,6 +15,7 @@
 # ':h option-list' to see all options
 # ':set history=1000' to change from default value 50
 # '"' in left column means all to its right is a comment
+# ':set ruler' to always show cursor (x,y) position
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
