@@ -16,6 +16,7 @@
 # ':set history=1000' to change from default value 50
 # '"' in left column means all to its right is a comment
 # ':set ruler' to always show cursor (x,y) position
+# ':set showcmd' shows incomplete commands near bottom right of window
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
