@@ -18,6 +18,7 @@
 # ':set ruler' to always show cursor (x,y) position
 # ':set showcmd' shows incomplete commands near bottom right of window
 # Use tab completion by partially entering command and then select TAB ie ':set h' then TAB
+# ':set wildmenu' to highlight options when use TAB to complete partial command
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
