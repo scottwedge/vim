@@ -19,6 +19,8 @@
 # ':set showcmd' shows incomplete commands near bottom right of window
 # Use tab completion by partially entering command and then select TAB ie ':set h' then TAB
 # ':set wildmenu' to highlight options when use TAB to complete partial command
+# set scrolloff to non-zero value (5) to always show some lines above and below current line
+   (so if select z-return you don't jump to very top of screen)
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
