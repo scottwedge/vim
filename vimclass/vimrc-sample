@@ -22,6 +22,7 @@
 # set scrolloff to non-zero value (5) to always show some lines above and below current line
    (so if select z-return you don't jump to very top of screen)
 # default scrolloff = 0
+# Longer names (hlsearch) are more descriptive that abbreviations (hls)
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
