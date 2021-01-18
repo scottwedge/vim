@@ -25,6 +25,7 @@
 # Longer names (hlsearch) are more descriptive that abbreviations (hls)
 # ':set incsearch' sets incremental search which shows all matches as search string is entered
 # ':set ignorecase' to ignore case when searching
+# Recommends ':set smartcase' with ':set ignorecase' which ignores upper case in search pattern
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
