@@ -23,6 +23,7 @@
    (so if select z-return you don't jump to very top of screen)
 # default scrolloff = 0
 # Longer names (hlsearch) are more descriptive that abbreviations (hls)
+# ':set incsearch' sets incremental search which shows all matches as search string is entered
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                                 Sample vimrc                                 "
